@@ -1,5 +1,5 @@
 //decalration basic Array iniliazation
-// /*
+/*
 const friends = ['apple', 'banana', 'watermelon'];
 console.log(friends);
 const temp = new Array(1991, 1992, 1993);
@@ -14,10 +14,10 @@ const calcAge = function (birthYear) {
 }
 const years = [1990, 1991, 1992, 1993, 1994];
 console.log(calcAge(years[0]));
-// */
+*/
 
 //Added the Value lish Push() method
-// /*
+/*
 const friends = ['ranjith', 'kumar', 'hatim', 'maveeran'];
 friends.push('Naveen');
 console.log(friends);
@@ -26,9 +26,9 @@ console.log(pushed);
 console.log(friends.length);
 friends.unshift('Alloment')
 console.log(friends);
-// */
+*/
 //pop the Value lish Pop() method
-// /*
+/*
 friends.pop();
 console.log(friends);
 friends.shift();
@@ -47,4 +47,4 @@ console.log(friends.includes(25))   // true 25 is not a number
 if (friends.includes('kumar')) {
     console.log("you have friend")
 }
-// */
+*/
